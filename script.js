@@ -5,10 +5,8 @@ let appendValue=(value)=> {
     document.getElementById('display').value = expression;
   }
 
-  // const buttons=document.querySelector('buttons')
-  // buttons.addEventListener('click',()=> {
-//     appendValue(buttons)
-// })
+  
+
 const one=document.querySelector('.one')
 const zero=document.querySelector('.zero')
 const two=document.querySelector('.two')
